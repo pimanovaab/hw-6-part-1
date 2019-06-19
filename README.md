@@ -15,3 +15,6 @@ wefgfdd
 
 ### Существительное/глагол
 ![Cиська](https://github.com/pimanovaab/hw6/blob/master/double.png)
+
+### Многозначность
+![Удача](https://github.com/pimanovaab/hw6/blob/master/multitask.png)
