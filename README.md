@@ -18,3 +18,6 @@ wefgfdd
 
 ### Многозначность
 ![Удача](https://github.com/pimanovaab/hw6/blob/master/multitask.png)
+
+### Про AntConc
+[Ссылка на сайт вики, там и ссылка на программу](http://wiki.fu-lab.ru/index.php/AntConc)
