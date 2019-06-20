@@ -1,4 +1,4 @@
-# hw6
+# hw 6 часть первая
 
 ### Найдите 10 самых частотных продолжений фразы "due to the". Сделайте скриншот графика и Вашего запроса. Скриншот поместите в ридми. 
 ![Duetothe](https://github.com/pimanovaab/hw6/blob/master/1due_to_the.png)
